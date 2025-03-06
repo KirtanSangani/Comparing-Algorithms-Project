@@ -101,3 +101,5 @@ The project includes multiple visualizations:
 - Experiment with ensemble learning techniques (e.g., Random Forest, Gradient Boosting).
 - Compare with deep learning approaches for potential improvements.
 
+## Link to Presentation
+- https://docs.google.com/presentation/d/1ughmdCZlLxyhQJu84OzfYdtRL832bp8nhw0mnA6P28c/edit?usp=sharing 
