@@ -102,4 +102,7 @@ The project includes multiple visualizations:
 - Compare with deep learning approaches for potential improvements.
 
 ## Link to Presentation
-- https://docs.google.com/presentation/d/1ughmdCZlLxyhQJu84OzfYdtRL832bp8nhw0mnA6P28c/edit?usp=sharing 
+- https://docs.google.com/presentation/d/1ughmdCZlLxyhQJu84OzfYdtRL832bp8nhw0mnA6P28c/edit?usp=sharing
+
+## Contributing
+Feel free to fork this repository and submit pull requests for improvements.
